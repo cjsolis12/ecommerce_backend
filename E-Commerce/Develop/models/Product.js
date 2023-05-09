@@ -37,6 +37,7 @@ Product.init(
     //this column is reference of id in 'category'
     category_id: {
       type: DataTypes. INTEGER,
+      allowNull: true,
       references: {
         model: 'category',
         key: 'id',
