@@ -26,7 +26,7 @@ This node application uses express and MySQL to build a backend for an e-commerc
    - Using insomnia or browser, input the route path to retrieve the correct data
   
   
-   ![screenshot](/E-Commerce/develop/assets/insomniascreenshot.png)
+   ![screenshot](/E-Commerce/Develop/assets/insomniascreenshot.png)
 
    https://drive.google.com/file/d/1OefDyWqbHn3wnMtONgt0kPZ7ZNgw2iRS/view
 
